@@ -14,3 +14,9 @@ The objective of this project is to investigate the issue of nutritional adequac
 * Eddie Guo 
 * Chenxi Yao
 * Austin Yee
+
+## Contents
+* Code: check [project4.ipynb](https://github.com/eddieguo-1128/EEP153_Proj4/blob/main/Project4.ipynb) for codes
+* Slides: [Google Slides](https://docs.google.com/presentation/d/1HdxXSmiWmMW9hkF6hq2MwDv4r0NMg7QbUabtEkMTpGM/edit#slide=id.ged47d2359d_0_0)
+
+
